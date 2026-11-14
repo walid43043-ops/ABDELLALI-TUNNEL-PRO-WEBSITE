@@ -9,6 +9,6 @@ APK:
   ABDELLALI-TUNNEL-PRO.apk
 
 Then edit index.html and replace USERNAME in this URL with the GitHub account/repository owner:
-https://github.com/USERNAME/ABDELLALI-TUNNEL-PRO/releases/latest/download/ABDELLALI-TUNNEL-PRO.apk
+https://github.com/walid43043-ops/ABDELLALI-TUNNEL-PRO-WEBSITE/releases/latest/download/ABDELLALI-TUNNEL-PRO.apk
 
 The website can then be published with GitHub Pages or another static hosting provider.
